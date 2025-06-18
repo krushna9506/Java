@@ -38,4 +38,7 @@ class MyDemo {
  /*
   * 1. Defult Constructor:
  *    - A constructor that does not take any parameters.
+ * 
+ * 2. Parameterized Constructor:
+ *    - A constructor that takes parameters to initialize the object with specific values.
   */
