@@ -22,8 +22,8 @@ class Student {
 
     public static void main(String[] args) {
         // Creating objects using parameterized constructor
-        Student s1 = new Student("Alice", 18, 92);
-        Student s2 = new Student("Bob", 19, 85);
+        Student s1 = new Student("Krushna", 18, 92);
+        Student s2 = new Student("Manasi", 18, 85);
 
         s1.display();
         System.out.println();
